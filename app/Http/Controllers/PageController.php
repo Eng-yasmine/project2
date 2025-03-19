@@ -10,4 +10,12 @@ class PageController extends Controller
   {
     return view('pages.home');
   }
+  public function major()
+  {
+    return view('pages.majors');
+  }
+  public function doctor()
+  {
+    return view('pages.doctors');
+  }
 }

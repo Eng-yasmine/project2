@@ -8,6 +8,9 @@ Route::get('/', function () {
 });
 Route::group(['prefix'=>'page','as'=>'pages.'] ,function(){
 Route::get('home',[PageController::class,'index'])->name('home');
+Route::get('majors',[PageController::class,'major'])->name('majors');
+Route::get('doctors',[PageController::class,'doctor'])->name('doctors');
+
 
 
 });
