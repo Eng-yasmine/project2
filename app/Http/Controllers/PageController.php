@@ -18,4 +18,13 @@ class PageController extends Controller
   {
     return view('pages.doctors');
   }
+  public function contact()
+  {
+    return view('pages.contact');
+  }
+  public function ContactAction(Request $request)
+  {
+    //dd($request->all());
+    return redirect()->route('pages.contact')->with('success','your message has been sent');
+  }
 }
