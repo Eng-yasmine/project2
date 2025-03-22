@@ -3,12 +3,12 @@
 
 @section('content')
 <div class="page-wrapper">
-  
+
     <div class="container-fluid bg-blue text-white pt-3">
         <div class="container pb-5">
             <div class="row gap-2">
                 <div class="col-sm order-sm-2">
-                    <img src="{{asset('assets/images/banner.jpg')}}" class="img-fluid banner-img banner-img" alt="banner-image"
+                    <img src="{{asset('frontuser/assets/images/banner.jpg')}}" class="img-fluid banner-img banner-img" alt="banner-image"
                         height="200">
                 </div>
                 <div class="col-sm order-sm-1">
@@ -29,7 +29,7 @@
         <h2 class="h1 fw-bold text-center my-4">majors</h2>
         <div class="d-flex flex-wrap gap-4 justify-content-center">
             <div class="card p-2" style="width: 18rem;">
-                <img src="{{asset('assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
+                <img src="{{asset('frontuser/assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
                     alt="major">
                 <div class="card-body d-flex flex-column gap-1 justify-content-center">
                     <h4 class="card-title fw-bold text-center">Major title</h4>
@@ -37,7 +37,7 @@
                 </div>
             </div>
             <div class="card p-2" style="width: 18rem;">
-                <img src="{{asset('assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
+                <img src="{{asset('frontuser/assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
                     alt="major">
                 <div class="card-body d-flex flex-column gap-1 justify-content-center">
                     <h4 class="card-title fw-bold text-center">Major title</h4>
@@ -45,7 +45,7 @@
                 </div>
             </div>
             <div class="card p-2" style="width: 18rem;">
-                <img src="{{asset('assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
+                <img src="{{asset('frontuser/assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
                     alt="major">
                 <div class="card-body d-flex flex-column gap-1 justify-content-center">
                     <h4 class="card-title fw-bold text-center">Major title</h4>
@@ -53,7 +53,7 @@
                 </div>
             </div>
             <div class="card p-2" style="width: 18rem;">
-                <img src="{{asset('assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
+                <img src="{{asset('frontuser/assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
                     alt="major">
                 <div class="card-body d-flex flex-column gap-1 justify-content-center">
                     <h4 class="card-title fw-bold text-center">Major title</h4>
@@ -61,7 +61,7 @@
                 </div>
             </div>
             <div class="card p-2" style="width: 18rem;">
-                <img src="{{asset('assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
+                <img src="{{asset('frontuser/assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
                     alt="major">
                 <div class="card-body d-flex flex-column gap-1 justify-content-center">
                     <h4 class="card-title fw-bold text-center">Major title</h4>
@@ -69,7 +69,7 @@
                 </div>
             </div>
             <div class="card p-2" style="width: 18rem;">
-                <img src="{{asset('assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
+                <img src="{{asset('frontuser/assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
                     alt="major">
                 <div class="card-body d-flex flex-column gap-1 justify-content-center">
                     <h4 class="card-title fw-bold text-center">Major title</h4>
@@ -77,7 +77,7 @@
                 </div>
             </div>
             <div class="card p-2" style="width: 18rem;">
-                <img src="{{asset('assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
+                <img src="{{asset('frontuser/assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
                     alt="major">
                 <div class="card-body d-flex flex-column gap-1 justify-content-center">
                     <h4 class="card-title fw-bold text-center">Major title</h4>
@@ -85,7 +85,7 @@
                 </div>
             </div>
             <div class="card p-2" style="width: 18rem;">
-                <img src="{{asset('assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
+                <img src="{{asset('frontuser/assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
                     alt="major">
                 <div class="card-body d-flex flex-column gap-1 justify-content-center">
                     <h4 class="card-title fw-bold text-center">Major title</h4>
@@ -99,7 +99,7 @@
                 <ul class="splide__list">
                     <li class="splide__slide">
                         <div class="card p-2" style="width: 18rem;">
-                            <img src="{{asset('assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
+                            <img src="{{asset('frontuser/assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
                                 alt="major">
                             <div class="card-body d-flex flex-column gap-1 justify-content-center">
                                 <h4 class="card-title fw-bold text-center">Doctor Name</h4>
@@ -111,7 +111,7 @@
                     </li>
                     <li class="splide__slide">
                         <div class="card p-2" style="width: 18rem;">
-                            <img src="{{asset('assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
+                            <img src="{{asset('frontuser/assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
                                 alt="major">
                             <div class="card-body d-flex flex-column gap-1 justify-content-center">
                                 <h4 class="card-title fw-bold text-center">Doctor Name</h4>
@@ -123,7 +123,7 @@
                     </li>
                     <li class="splide__slide">
                         <div class="card p-2" style="width: 18rem;">
-                            <img src="{{asset('assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
+                            <img src="{{asset('frontuser/assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
                                 alt="major">
                             <div class="card-body d-flex flex-column gap-1 justify-content-center">
                                 <h4 class="card-title fw-bold text-center">Doctor Name</h4>
@@ -135,7 +135,7 @@
                     </li>
                     <li class="splide__slide">
                         <div class="card p-2" style="width: 18rem;">
-                            <img src="{{asset('assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
+                            <img src="{{asset('frontuser/assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
                                 alt="major">
                             <div class="card-body d-flex flex-column gap-1 justify-content-center">
                                 <h4 class="card-title fw-bold text-center">Doctor Name</h4>
@@ -147,7 +147,7 @@
                     </li>
                     <li class="splide__slide">
                         <div class="card p-2" style="width: 18rem;">
-                            <img src="{{asset('assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
+                            <img src="{{asset('frontuser/assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
                                 alt="major">
                             <div class="card-body d-flex flex-column gap-1 justify-content-center">
                                 <h4 class="card-title fw-bold text-center">Doctor Name</h4>
@@ -159,7 +159,7 @@
                     </li>
                     <li class="splide__slide">
                         <div class="card p-2" style="width: 18rem;">
-                            <img src="{{asset('assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
+                            <img src="{{asset('frontuser/assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
                                 alt="major">
                             <div class="card-body d-flex flex-column gap-1 justify-content-center">
                                 <h4 class="card-title fw-bold text-center">Doctor Name</h4>
@@ -171,7 +171,7 @@
                     </li>
                     <li class="splide__slide">
                         <div class="card p-2" style="width: 18rem;">
-                            <img src="{{asset('assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
+                            <img src="{{asset('frontuser/assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
                                 alt="major">
                             <div class="card-body d-flex flex-column gap-1 justify-content-center">
                                 <h4 class="card-title fw-bold text-center">Doctor Name</h4>
@@ -183,7 +183,7 @@
                     </li>
                     <li class="splide__slide">
                         <div class="card p-2" style="width: 18rem;">
-                            <img src="{{asset('assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
+                            <img src="{{asset('frontuser/assets/images/major.jpg')}}" class="card-img-top rounded-circle card-image-circle"
                                 alt="major">
                             <div class="card-body d-flex flex-column gap-1 justify-content-center">
                                 <h4 class="card-title fw-bold text-center">Doctor Name</h4>
@@ -269,7 +269,7 @@
             </div>
         </div>
         <div class="bottom--right bg-blue text-white">
-            <img src="{{asset('assets/images/banner.jpg')}}" class="img-fluid banner-img">
+            <img src="{{asset('frontuser/assets/images/banner.jpg')}}" class="img-fluid banner-img">
         </div>
     </div>
 </div>
